@@ -16,10 +16,10 @@
 
 
 ## Hello friends! 👋
-####  What's up! My name is Alexandre and I'm studying front and backend technology! Nice to meet you!
+####  What's up! My name is Alexandre and I'm full stack developer! Nice to meet you!
 
 ## ようこそ！ :wave:
-####  初めまして、佐々木と申します！只今フロントエンドテクノロジーとバックエンドテクノロジーを学んでいます！よろしくお願いいたします。
+####  初めまして、佐々木と申します！フルスタックデベロッパーとして活動しています！よろしくお願いいたします。
 
 ## :open_file_folder: Technologies|プログラミング言語 :open_file_folder:
 - HTML
@@ -27,3 +27,4 @@
 - JavaScript
 - React.js
 - Node.js
+- Java Springboot
